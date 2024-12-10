@@ -6,6 +6,12 @@ what are the file and folder
 - Answer only part F
 3) Src folder
 - Contains the implementation for Average test
-4) PartG.png
+4) Coverage.png
 - picture of the coverage
-5)
+5) PartG.md
+- Explain the Coverage
+
+Reference: 
+https://www.jetbrains.com/help/idea/code-coverage.html#configure_code_coverage
+https://www.youtube.com/watch?v=QDFI19lj4OM
+https://www.youtube.com/@CodingWithJohn/search?query=coverage
